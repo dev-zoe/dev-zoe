@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev-zoe
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on python 
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me: contact me on my email zoeayilara5@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love watching anime
